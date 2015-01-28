@@ -6,8 +6,8 @@ To visualize biological cells and highlight by a user selected sub-cellular comp
 
 Input data:
 
-a) Input data file should be either a ".txt" or ".csv" file.
-b) Text file must contain proteins of only one type of cell.
+- Input data file should be either a ".txt" or ".csv" file.
+- Text file must contain proteins of only one type of cell.
 c) File’s first line should contain cell type (i.e: eukaryota, archea, bacteria).
 d) File's second line should contain Score (i.e: 0-100). Note: Minimum score should be zero.
 e) File's third line should contain columns description (i.e: Protein Id, Score, Localization).

@@ -8,7 +8,7 @@ Input data:
 
 - Input data file should be either a ".txt" or ".csv" file.
 - Text file must contain proteins of only one type of cell.
-c) File’s first line should contain cell type (i.e: eukaryota, archea, bacteria).
+c) File’s first line should contain cell type (i.e: eukaryota, archea, bacteria)
 d) File's second line should contain Score (i.e: 0-100). Note: Minimum score should be zero.
 e) File's third line should contain columns description (i.e: Protein Id, Score, Localization).
 f) User’s file can have more than 3 columns but additional columns will not be executed.

@@ -3,7 +3,7 @@ Sub-cellular-localization-in-cell
 Objective:
 
 To visualize biological cells and highlight by a user selected sub-cellular compartments in a way that they stand out from the un-selected ones.
-==================================================================
+
 Input data:
 
 a) Input data file should be either a ".txt" or ".csv" file.
@@ -12,9 +12,9 @@ c) File’s first line should contain cell type (i.e: eukaryota, archea, bacteri
 d) File's second line should contain Score (i.e: 0-100). Note: Minimum score should be zero.
 e) File's third line should contain columns description (i.e: Protein Id, Score, Localization).
 f) User’s file can have more than 3 columns but additional columns will not be executed.
-==================================================================
+
 Supported Web browsers: Google Chrome
-==================================================================
+
 Implementation:
 
 1. First, all the cell compartments were identified by the paths that were marked using the GIMP image editor.
@@ -26,7 +26,7 @@ Implementation:
 7. The proteins displayed in the tooltip were made clickable so that the cell image could be updated to reflect the scores of the protein in all the cell compartments.
 8. Finally, the cell compartments were highlighted using a score color scale, which was obtained by mapping the score of a protein in each cell compartment to a color.
 
-==================================================================
+
 Description of color scale for localization and score:
 
 a)	Localization

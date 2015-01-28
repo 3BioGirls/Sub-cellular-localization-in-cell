@@ -1,4 +1,0 @@
-archaea
-0-100
-Protein Id	Score	Localization	Gene Ontology
-tr|Q8STW1|Q8STW1_ENCCU	20	plasma membrane	This is not needed

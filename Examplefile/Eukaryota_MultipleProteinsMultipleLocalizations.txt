@@ -1,7 +1,0 @@
-Eukaryota
-0-100
-Protein Id	Score	Localization	Gene Ontology
-sp|Q8SWH2|HSP7A_ENCCU	16	nucleus	This is not needed
-tr|Q8SQK2|Q8SQK2_ENCCU	2	nucleus	This is not needed
-tr|Q8STW1|Q8STW1_ENCCA	23	vacuole	This is not needed
-tr|Q8SQK2|Q8SQK2_ENCCU	80	peroxisome	This is not needed

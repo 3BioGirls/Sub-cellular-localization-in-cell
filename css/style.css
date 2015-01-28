@@ -39,8 +39,7 @@
 	}
 
 	h3,h4 {
-		/*color: #283121;*/
-		color: #DCDCDC;
+		color: #283121;
 		margin-bottom: 0.5em;
 	}
 
@@ -311,16 +310,6 @@
 
 		#banner {
 			position: relative;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-			width: 1160px;
-			height: 100px;
-			margin: 1.2% 0 2% 0;
-			box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.10);
-			border-radius: 8px;
-			padding: 10px;
-			background: #fff url(images/banner.jpg) no-repeat 10px 10px;
-			background-size: 1160px 100px;
-=======
 			width: 1178px;
 			height: 80px;
 			margin: 1.1% 0 2% 0;
@@ -329,7 +318,6 @@
 			padding: 10px;
 			background: #fff url(images/banner.jpg) no-repeat 50%;
 			background-size: 1178px 86px;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 			
 		}
 
@@ -337,11 +325,7 @@
 				position: absolute;
 				z-index: 1;
 				width: 100%;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-				top: 30px;
-=======
 				top: 23px;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 				left: 0;
 				font-size: 2.85em;
 				color: #fff;
@@ -486,14 +470,8 @@
 				left: 40px;
 				top: 0;
 				color: #fff;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-				font-size: 2.4em;
-				letter-spacing: -2px;
-				/*line-height: 86px*/
-=======
 				font-size: 2.0em;
 				letter-spacing: -2px;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 				line-height: 50px
 				
 			}
@@ -507,15 +485,8 @@
 				position: absolute;
 				right: 40px;
 				top: 1px;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-				/*line-height: 84px;*/
-				line-height: 50px;				
-				/*text-transform: lowercase;*/
-				font-size: 1.3em;
-=======
 				line-height: 50px;				
 				font-size: 1.16em;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 				letter-spacing: -1px;
 			}
 			
@@ -523,7 +494,6 @@
 					display: inline-block;
 					text-decoration: none;
 					color: #fff;
-					/*padding: 0 25px 0 25px;*/
 					padding: 0 20px 0 20px;
 				}
 				
@@ -556,16 +526,6 @@
 
 		#banner {
 			position: relative;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-			width: 1160px;
-			height: 100px;
-			margin: 1.2% 0 2% 0;
-			box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.10);
-			border-radius: 8px;
-			padding: 10px;
-			background: #fff url(images/banner.jpg) no-repeat 10px 10px;
-			background-size: 1160px 100px;
-=======
 			width: 1178px;
 			height: 80px;
 			margin: 1.1% 0 2% 0;
@@ -574,7 +534,6 @@
 			padding: 10px;
 			background: #fff url(images/banner.jpg) no-repeat 50%;
 			background-size: 1178px 86px;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 			
 		}
 
@@ -582,15 +541,9 @@
 				position: absolute;
 				z-index: 1;
 				width: 100%;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-				top: 30px;
-				left: 0;
-				font-size: 3.3em;
-=======
 				top: 23px;
 				left: 0;
 				font-size: 2.85em;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 				color: #fff;
 				text-align: center;
 				}
@@ -703,14 +656,8 @@
 				left: 40px;
 				top: 0;
 				color: #fff;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-				font-size: 2.4em;
-				letter-spacing: -2px;
-				/*line-height: 86px*/
-=======
 				font-size: 2.0em;
 				letter-spacing: -2px;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 				line-height: 50px
 				
 			}
@@ -724,15 +671,8 @@
 				position: absolute;
 				right: 40px;
 				top: 1px;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-				/*line-height: 84px;*/
-				line-height: 50px;				
-				/*text-transform: lowercase;*/
-				font-size: 1.3em;
-=======
 				line-height: 50px;				
 				font-size: 1.16em;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 				letter-spacing: -1px;
 			}
 			
@@ -740,10 +680,6 @@
 					display: inline-block;
 					text-decoration: none;
 					color: #fff;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-					/*padding: 0 25px 0 25px;*/
-=======
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 					padding: 0 20px 0 20px;
 				}
 				
@@ -759,15 +695,6 @@
 				}
 
 				#header nav a:hover {
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-					background-color: #0882a1;
-					background-image: -moz-linear-gradient(top, #0782a0, #077d9b);
-					background-image: -webkit-linear-gradient(top, #0782a0, #077d9b);
-					background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0782a0), to(#077d9b));
-					background-image: -ms-linear-gradient(top, #0782a0, #077d9b);
-					background-image: -o-linear-gradient(top, #0782a0, #077d9b);
-					background-image: linear-gradient(top, #0782a0, #077d9b);
-=======
 					background-color: #007897;
 					background-image: -moz-linear-gradient(top, #007897, #077d9b);
 					background-image: -webkit-linear-gradient(top, #007897, #077d9b);
@@ -775,7 +702,6 @@
 					background-image: -ms-linear-gradient(top, #007897, #077d9b);
 					background-image: -o-linear-gradient(top, #007897, #077d9b);
 					background-image: linear-gradient(top, #007897, #077d9b);
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 					box-shadow: inset 0px 1px 5px 1px rgba(0,0,0,0.05), 0px 0px 5px 1px rgba(255,255,255,0.05);
 				}
 
@@ -786,16 +712,6 @@
 
 		#banner {
 			position: relative;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-			width: 1160px;
-			height: 100px;
-			margin: 1.2% 0 2% 0;
-			box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.10);
-			border-radius: 8px;
-			padding: 10px;
-			background: #fff url(images/banner.jpg) no-repeat 10px 10px;
-			background-size: 1160px 100px;
-=======
 			width: 1178px;
 			height: 80px;
 			margin: 1.1% 0 2% 0;
@@ -804,7 +720,6 @@
 			padding: 10px;
 			background: #fff url(images/banner.jpg) no-repeat 50%;
 			background-size: 1178px 86px;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 			
 		}
 
@@ -812,15 +727,9 @@
 				position: absolute;
 				z-index: 1;
 				width: 100%;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-				top: 30px;
-				left: 0;
-				font-size: 3.3em;
-=======
 				top: 23px;
 				left: 0;
 				font-size: 2.85em;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 				color: #fff;
 				text-align: center;
 				}
@@ -850,10 +759,7 @@
 			#main .main-row {
 				margin: 0 0 0 0;
 				overflow: hidden;
-<<<<<<< HEAD:biojs-sub-cellular-localization-in-cell/css/style.css
-=======
 				font-family: 'Roboto', serif;
->>>>>>> 87fb73dbb339bc7b9c8523aa4ea7650809cfe1f0:css/style.css
 			}
 
 		#footer-wrapper {

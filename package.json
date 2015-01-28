@@ -5,7 +5,7 @@
   "homepage": "https://github.com/3BioGirls/Sub-cellular-localization-in-cell",
   "contributors": [
     {
-      "name": "Prapaporn (Pui) Dangnoy",
+      "name": "Prapaporn Dangnoy",
       "email": "p.dangnoy@tum.de"
     },
     {
@@ -13,27 +13,32 @@
       "email": "madhura.kswamy@gmail.com"
     },
     {
-      "name": "Maribel ",
+      "name": "Maribel Guzman",
       "email": "maribel.guzmanm@gmail.com"
     },
     {
-      "name": "Tatyana Goldberg"
-    },
-    {
-      "name": "Juan Miguel Cejuela"
-    },
-    {
-      "name": "Sebastian Wilzbach"
-    },
-    {
-      "name": "David Dao"
-    },
-    {
+      "name": "Tatyana Goldberg",
+      "url": "https://rostlab.org/~goldberg/"
+    }, 
+	{
+      "name": "Juan Miguel Cejuela",
+      "url": "https://www.tagtog.net/"
+    }, 
+	{
+      "name": "Sebastian Wilzbach",
+      "url": "http://seb.wilzba.ch"
+    }, 
+	{
+      "name": "David Dao",
+      "url": "http://daviddao.de"
+    },	 
+	{
       "name": "Rachel First"
-    },
-    {
-      "name": "Prof. Dr. Burkhard Rost"
-    }
+    },	
+	{
+      "name": "Prof. Burkhard Rost"
+      "url": "https://en.wikipedia.org/wiki/Burkhard_Rost"
+    }  
   ],
   "repository": {
     "type": "git",

@@ -46,11 +46,13 @@ All contributions are welcome.
 
 ==================================================================
 Support
+==================================================================
 
 If you have any problem or suggestion please open an issue <a href="#">here</a>.
 
-==================================================================
+
 License
+==================================================================
 
 This software is licensed under the Apache 2 license, quoted below.
 

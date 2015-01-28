@@ -3,7 +3,7 @@ Sub-cellular-localization-in-cell
 Description
 ==================================================================
 "Sub-cellular-localization-in-cell" is a component to visualize biological cells and highlight by a user selected sub-cellular compartments in a way that they stand out from the un-selected ones.
-==================================================================
+
 Documentation
 ==================================================================
 Input data:

@@ -1,9 +1,11 @@
 Sub-cellular-localization-in-cell
 ==================================================================
-Objective:
+Description
 
-To visualize biological cells and highlight by a user selected sub-cellular compartments in a way that they stand out from the un-selected ones.
-
+"Sub-cellular-localization-in-cell" is a component to visualize biological cells and highlight by a user selected sub-cellular compartments in a way that they stand out from the un-selected ones.
+==================================================================
+Documentation
+==================================================================
 Input data:
 
 - Input data file should be either a ".txt" or ".csv" file.

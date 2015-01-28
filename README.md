@@ -31,9 +31,9 @@ Implementation:
 
 Description of color scale for localization and score:
 
-- Localization:
+Localization:
 The lightest color represents the minimum number of proteins in a cell compartment, in contrast, the darkest color represents the maximum number of proteins within a cell compartment. These values are also expressed in percentages where the lightest color matches with 0% and the darkest color with 100%.
 
-- Score(confidence):
+Score(confidence):
 The color scale for score (confidence) is based on percentages from 0 to 100 % where 0 means low confidence and 100 means accurate confidence. 
 

@@ -43,13 +43,10 @@ The color scale for score (confidence) is based on percentages from 0 to 100 % w
 Contributing
 ==================================================================
 All contributions are welcome.
-
 ==================================================================
 Support
 ==================================================================
-
 If you have any problem or suggestion please open an issue <a href="#">here</a>.
-
 
 License
 ==================================================================

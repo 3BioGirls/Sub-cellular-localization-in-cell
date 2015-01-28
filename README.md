@@ -39,3 +39,15 @@ The lightest color represents the minimum number of proteins in a cell compartme
 Score(confidence):
 The color scale for score (confidence) is based on percentages from 0 to 100 % where 0 means low confidence and 100 means accurate confidence. 
 
+
+{| class="wikitable"
+|-
+! HeaderR0C1 !! HeaderR0C2 !! HeaderR0C3
+|-
+| ExampleR1C1 || ExampleR1C2 || ExampleR1C3
+|-
+| ExampleR2C1 || ExampleR2C2 || ExampleR2C3
+|-
+| ExampleR3C1 || ExampleR3C2 || ExampleR3C3
+|}
+

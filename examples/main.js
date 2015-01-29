@@ -7,7 +7,7 @@
   view = app.view;
 
   //Function to set picture path
-  view.setPath("../");
+  view.setPath("./");
 
   //Setting html functions
   var mouseEventHandler = view.mouseEventHandler;

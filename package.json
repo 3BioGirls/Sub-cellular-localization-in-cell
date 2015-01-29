@@ -75,7 +75,7 @@
     "js": [
       "/build/cell.js"
     ],
-    "css": ["./css/5grid/core.css", "./css/sub-cellular-localization.css", "./css/style.css"],
+    "css": ["/css/5grid/core.css", "/css/sub-cellular-localization.css", "/css/style.css"],
     "snippets": [
       "examples"
     ],

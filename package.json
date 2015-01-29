@@ -1,7 +1,7 @@
 {
   "name": "biojs-sub-cellular-localization-in-cell",
   "description": "To visualize biological cells and highlight by a user selected sub-cellular compartments in a way that they stand out from the un-selected ones",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "https://github.com/3BioGirls/Sub-cellular-localization-in-cell",
   "contributors": [
     {

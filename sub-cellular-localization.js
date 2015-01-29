@@ -302,18 +302,11 @@
 					 for (var i = 0; i < localizationColorArray.length; i++) {
 		          	 	  var LocColor = localizationColorArray[i];
 						  var locNbr = LocColor.numberProtein;
-						  if(LocColor.numberProtein == 0)
-						  {
-						   locNbr = "";
-						  }
-						  var locPercent = LocColor.percentProtein;
-						  if(LocColor.percentProtein == 0)
-						  {
-						   locPercent = "";
-						  }				  			  
-						   
-		          	 	  strLocTable += "<tr><td>" + LocColor.proteinLocalization + "</td><td class='adjustRight'>" + locNbr + "</td><td class='adjustRight'>" + locPercent + "</td></tr>";
 						  
+						  if(LocColor.numberProtein != 0)
+						  {
+						   strLocTable += "<tr><td>" + LocColor.proteinLocalization + "</td><td class='adjustRight'>" + locNbr + "</td><td class='adjustRight'>" + locPercent + "</td></tr>";
+						  }
 				     }
 				 strLocTable += "</table>"; 
 			     divTableLoc.innerHTML = strLocTable;

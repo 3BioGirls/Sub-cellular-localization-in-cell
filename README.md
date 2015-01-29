@@ -19,6 +19,8 @@ Supported Web browsers:
 
 - Google Chrome
 
+Click [here](http://3biogirls.github.io/Sub-cellular-localization-in-cell/) to see this component in action.
+
 Implementation:
 
 - First, all the cell compartments were identified by the paths that were marked using the GIMP image editor.

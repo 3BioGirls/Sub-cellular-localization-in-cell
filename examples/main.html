@@ -1,63 +1,21 @@
 <html>
 <body> 
-<table  id="main" > 
-<tr>
-<td width="10%">
-</td>
-<td>
-
-  <div id="main"> 
-  	    <br/> 	    
-  		<h1 style="font-size:30px;">Please upload your input file</h1>
-		<br/>		
-		<div>
-              Select a color for localization: &nbsp;
-        	  <select id="ddlColorLoc">
-        		<option value="blue">Blue</option>
-        		<option value="green" selected="selected">Green</option>
-        		<option value="lila">Lila</option>
-        		<option value="red">Red</option>
-        	  </select>
-			  &nbsp; &nbsp; &nbsp; 
-			  Select a color for Score: &nbsp;
-        	  <select id="ddlColorScore">
-        		<option value="blue">Blue</option>
-        		<option value="green">Green</option>
-        		<option value="lila">Lila</option>
-        		<option value="red" selected="selected">Red</option>
-        	  </select>
-  	 	</div>
-        <br/>
-		
-          		<div>
-                  Select from example file : 
-                    <input id = "case1" type="radio" name="ExampleType" value="case1" >One Protein One Localization
-                    <input id = "case2" type="radio" name="ExampleType" value="case2" >One Protein Multiple Localizations
-                	<input id = "case3" type="radio" name="ExampleType" value="case3" >Multiple Proteins and Localizations
-                 </div>	
-		<br/>
-		<div>
-		Or
-		</div>
-		<br/>
-  		<div>
-  			Select a text file :  
-  			<input type="file" id="fileInput">
-  		</div>
-  		<pre id="fileDisplayArea"><pre>
-		<br/>
-		<div style="float:left;" id="btnBack" ></div>
-  
+<table id="main">
+  <tr><td>
+  <div id="main">
+	<div id="btnBack" ></div>
   </div>
+  <br/>
   <!-- Header  !-->
   <div id="headerPP"></div>  
    <div class="CSSTableGenerator" id="tdTblDescriptionScore" ></div>
    <div class="CSSTableGenerator" id="tdTblDescriptionLoc" ></div>
   <!-- Pop-up  !-->
   <div id="linkPopup" >  
-  	 <table id="tblLinkPopup"><thead id = "popHeader"></thead><tbody id = "popDetail"></tbody></table>
+  	 <table id="tblLinkPopup"><thead id = "popHeader"></thead><tbody id = "popDetail"></tbody>
+	 </table>
   </div>
-  <table>
+  <table >
   	<tr>		
 		 <td>	 	 
               <!-- Image  !-->
@@ -71,21 +29,13 @@
     	</td>		 
 	</tr>
   </table>
-</td>
-</tr>
-</table> 
 
-
-<div id="footer-wrapper">		
-				<div class="12u-first">
-
-					<div id="copyright">
-						Copyright © 3Biogirls 2015
-					</div>
-
-				</div>		
+</td></tr></table> 
+<br/>
+<div id="main">
+        To use own input file :  
+        <input type="file" id="fileInput">
+      <pre id="fileDisplayArea"><pre>
 </div>
-
- 
 </body>
 </html>

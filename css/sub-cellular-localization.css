@@ -1,11 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 @import url(http://fonts.googleapis.com/css?family=Ubuntu+Condensed);
 
-em
-{
-	font-size: 26px;
-}
-
 #fileDisplayArea
 {
 	margin: 0 0 -30 0;
@@ -36,14 +31,6 @@ opacity:0.8;
   
 }
 
-#main h1
-{
-	width:100%; 
-	font-size:34px;
-	color: #00A2C5;
-	font-family: 'Ubuntu Condensed';
-	
-}
 
 #main h2
 {
@@ -83,10 +70,7 @@ a:link, a:visited {
   box-shadow:0px 0px 0px;
   border:0;
  }
- #btnBack
- {
-    float:right;
-  }
+ 
 #score,#localization,#myCanvas
  {
    float:left;

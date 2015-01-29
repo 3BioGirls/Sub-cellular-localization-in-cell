@@ -1,0 +1,134 @@
+<html>
+<head>
+
+	<title>Sub-cellular localization in a cell</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="css/viewport.js"></script>
+  
+  <link rel="stylesheet" href="css/core.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" type="text/css" href="css/sub-cellular-localization.css">
+</head>
+<body>   
+
+<div id="header-wrapper">
+			<div class="5grid">
+				<div class="12u-first">
+					
+					<header id="header">
+						<h1><a href="index.html">3BioGirls</a></h1>
+						<nav>
+							<a href="index.html">Home</a>
+							<a href="main.html" class="current-page-item">Localization</a>
+							<a href="about.html">About</a>
+							<a href="contact.html" >Contact Us</a>									
+						</nav>
+					</header>
+				
+				</div>
+			</div>
+		</div>
+
+
+
+
+<table  id="main" > 
+<tr>
+<td width="10%">
+</td>
+<td>
+
+  <div id="main"> 
+  
+
+
+  	    <br/> 	    
+  		<h1>Please upload your input file</h1>
+		<br/>		
+		<div>
+              Select a color for localization: &nbsp;
+        	  <select id="ddlColorLoc">
+        		<option value="blue">Blue</option>
+        		<option value="green" selected="selected">Green</option>
+        		<option value="lila">Lila</option>
+        		<option value="red">Red</option>
+        	  </select>
+			  &nbsp; &nbsp; &nbsp; 
+			  Select a color for Score: &nbsp;
+        	  <select id="ddlColorScore">
+        		<option value="blue">Blue</option>
+        		<option value="green">Green</option>
+        		<option value="lila">Lila</option>
+        		<option value="red" selected="selected">Red</option>
+        	  </select>
+  	 	</div>
+        <br/>
+		
+          		<div>
+                  Select from example file : 
+                    <input id = "case1" type="radio" name="ExampleType" value="case1" >One Protein One Localization
+                    <input id = "case2" type="radio" name="ExampleType" value="case2" >One Protein Multiple Localizations
+                	<input id = "case3" type="radio" name="ExampleType" value="case3" >Multiple Proteins and Localizations
+                 </div>	
+		<br/>
+		<div>
+		<em> Or </em>
+		</div>
+		<br/>
+  		<div>
+  			Select a text file :  
+  			<input type="file" id="fileInput">
+  		</div>
+  		<pre id="fileDisplayArea"><pre>
+		<br/>
+		<div style="float:left;" id="btnBack" ></div>
+  
+  </div>
+  <!-- Header  !-->
+  <div id="headerPP"></div>  
+   <div class="CSSTableGenerator" id="tdTblDescriptionScore" ></div>
+   <div class="CSSTableGenerator" id="tdTblDescriptionLoc" ></div>
+  <!-- Pop-up  !-->
+  <div id="linkPopup" >  
+  	 <table id="tblLinkPopup"><thead id = "popHeader"></thead><tbody id = "popDetail"></tbody></table>
+  </div>
+  <table>
+  	<tr>		
+		 <td>	 	 
+              <!-- Image  !-->
+              <div id="myCanvas"></div> 			 	 
+		 </td>		
+	</tr>	
+
+	<tr>
+    	<td>
+
+        	<div id="score"></div>
+        	<div id="localization"></div>
+    	</td>	
+      	 
+	</tr>
+  </table>
+</td>
+</tr>
+</table> 
+
+
+<div id="footer-wrapper">		
+				<div class="12u-first">
+
+					<div id="copyright">
+						Copyright © 3BioGirls 2015
+					</div>
+
+				</div>		
+</div>
+
+ <!-- Javascript area  !-->
+<script src="./d3.min.js"></script>
+<script type="text/javascript" src="./sub-cellular-localization.js"></script>
+ 
+</body>
+</html>
